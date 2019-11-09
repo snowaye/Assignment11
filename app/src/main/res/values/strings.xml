@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment11</string>
+    <string name="label_title">Unsplash</string>
+    <string name="label_body">Beautiful, free photos...</string>
+    <string name="label_hint_search_photo">Search Photos</string>
+    <string name="title_detail">Detail</string>
+    <string name="label_related_photo">Related Photos</string>
+</resources>
